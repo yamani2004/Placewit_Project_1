@@ -1,1 +1,1 @@
-This is my Placewit Project 1
+This project is part of the Placewit initiative.
