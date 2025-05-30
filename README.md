@@ -98,7 +98,7 @@ This project is intended for educational and demonstration purposes only. Not fo
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/image.png)
+![Homepage](./public/image.png)
 
 
 
