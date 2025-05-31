@@ -1,8 +1,7 @@
 ## Project Info
 
-<<<<<<< HEAD
 This is a React-based app created as part of the Placewit Project.
-=======
+
 This is a React-based app created as part of the Placewit Project Group-4.
 
 SHOPVERSE – Your Gateway to Smart Shopping
@@ -103,10 +102,4 @@ This project is intended for educational and demonstration purposes only. Not fo
 ### 🏠 Homepage
 ![Homepage](./public/UI.png)
 
-
-
-
-
-
->>>>>>> 13f14d1e15603b5d3bd9740a09cd24767b466a1d
 
